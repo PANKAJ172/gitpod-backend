@@ -1,6 +1,6 @@
 version: '3'
 services:
-  my-spring-boot-app:
+  gitpod-backend-app:
     image: gitpod-backend
     build:
       context: .
